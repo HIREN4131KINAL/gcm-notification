@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "393202404074",
+    "project_id": "notifydemo-3e754"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393202404074:android:3d890091d1aca4a0",
+        "android_client_info": {
+          "package_name": "com.example.androiddeveloper.notifydemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFPaXQ8PwW5xWfueDlXT0db3-wDToFQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393202404074:android:e39a6912ed15fb14",
+        "android_client_info": {
+          "package_name": "com.example.androiddeveloper.notificationdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFPaXQ8PwW5xWfueDlXT0db3-wDToFQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
